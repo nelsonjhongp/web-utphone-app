@@ -1,6 +1,6 @@
 # UTPhone
 
-![image alt]([[https://imgur.com/DDW8944](https://github.com/nelsonjhongp/web-utphone-app/blob/main/utphonebanner.png)](https://github.com/nelsonjhongp/web-utphone-app/blob/5af1c952fd2620ff381930f385af00084e59c684/utphonebanner.png))
+![image alt](https://github.com/nelsonjhongp/web-utphone-app/blob/066ae6a9d8a6c6fc80ca5dbc74ac2f8343005f50/utphonebanner.png)
 
 
 UTPhone es una plataforma digital diseñada para modernizar la venta de dispositivos móviles. Este proyecto combina tecnologías web esenciales con un backend robusto en Java Spring Boot y una base de datos MySQL para ofrecer una experiencia eficiente y moderna.
